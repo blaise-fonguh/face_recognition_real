@@ -1,0 +1,20 @@
+{
+    "cSpell.words": [
+        "CCOEFF",
+        "deepface",
+        "facedetect",
+        "Facenet",
+        "Fonguh",
+        "frontalface",
+        "haarcascade",
+<<<<<<< HEAD
+        "haarcascades",
+        "imread",
+=======
+>>>>>>> parent of ae4790d (added in the video and pic to be read)
+        "imshow",
+        "opencv",
+        "oslistdir",
+        "waitkey"
+    ]
+}
